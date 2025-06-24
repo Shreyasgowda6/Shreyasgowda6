@@ -12,7 +12,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,streamlit,r" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,r" />
   <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn" />
 </p>
 
@@ -27,18 +27,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasgowda128&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasgowda128&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowda128&layout=compact&theme=radical" width="48%" />
-</p>
-
----
 
 ### 🌍 Connect With Me
 
