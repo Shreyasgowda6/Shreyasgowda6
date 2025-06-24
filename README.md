@@ -1,42 +1,48 @@
-# Hi 👋, I'm Shreyas H S
+<h1 align="center">Hi 👋, I'm Shreyas H S</h1>
+<h3 align="center">Tech Enthusiast | Developer | AI & Data Science Explorer</h3>
 
-A Passionate Tech Enthusiast from India 🇮🇳
-
-- 🌱 I’m currently learning **JavaScript** and **Power BI**
-- 📫 Reach me at: **shreyasgowda128@gmail.com**
-
----
-
-### 🔗 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasgowda128@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-h-s-412ab327b)
-
+<p align="center">
+  🌱 Currently learning <b>JavaScript</b> & <b>Power BI</b><br>
+  📫 Reach me at <a href="mailto:shreyasgowda128@gmail.com">shreyasgowda128@gmail.com</a><br>
+  🔗 <a href="https://www.linkedin.com/in/shreyas-h-s-412ab327b" target="_blank">LinkedIn Profile</a>
+</p>
 
 ---
 
-### 🛠️ Languages and Tools I Use:
+### 🧰 Tech Stack & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,mysql,git,streamlit,r" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikit-learn" />
+</p>
 
 ---
 
-### 🚀 Domains I'm exploring:
+### 💡 Domains of Interest
 
-- 🤖 AI / ML
-- 🧠 Natural Language Processing (NLP)
-- 🧮 Data Science
-- 👁️ Computer Vision
-- 📊 Business Intelligence with Power BI
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Natural Language Processing  
+- 👁️ Computer Vision  
+- 📊 Data Visualization & Business Intelligence  
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyasgowda128&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasgowda128&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasgowda128&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:shreyasgowda128@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreyas-h-s-412ab327b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
